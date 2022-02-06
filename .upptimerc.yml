@@ -9,8 +9,8 @@ sites:
     url: https://gon-alt.github.io/el_cabure/
   - name: decoMuebles
     url: https://gon-alt.github.io/decoMuebles/
-  - name: Test Broken Site
-    url: https://thissitedoesnotexist.koj.co
+  - name: Foster Viajes
+    url: https://fosterviajes.tur.ar/
     
 assignees:
   - gon-alt
