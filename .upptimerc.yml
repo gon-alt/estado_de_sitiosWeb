@@ -22,7 +22,7 @@ status-website:
   #apiBaseUrl: https://api.github.com
   baseUrl: /estado_de_sitiosWeb
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  name: Upptime de SitiosWeb
+  name: Upptime de Sitios Web
   introTitle: "**Upptime** Bienvenido, esta es una pagina para corroborar el estado de tus sitios web, esperemos que todo vaya bien! :) by GitHub."
   introMessage: A continuación encontrarás un resumen del estado de sus sitios que se actualiza con una frecuencia de 10 minutos aproximadamente, así que si tu sitio muestra un estado diferente al que aparece en esta página ten paciencia y espera la actualización del estado. 
   navbar:
