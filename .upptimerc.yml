@@ -1,5 +1,5 @@
 # Change these first
-owner: Gonza -CMHMR- # Your GitHub organization or username, where this repository lives
+owner: gon-alt # Your GitHub organization or username, where this repository lives
 repo: estado_de_sitiosWeb # The name of this repository
 
 sites:
@@ -9,14 +9,17 @@ sites:
     url: https://gon-alt.github.io/el_cabure/
   - name: decoMuebles
     url: https://gon-alt.github.io/decoMuebles/
-#  - name: Test Broken Site
-#    url: https://thissitedoesnotexist.koj.co
+  - name: Test Broken Site
+    url: https://thissitedoesnotexist.koj.co
+    
+assignees:
+  - gon-alt
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   # cname: demo.upptime.js.org
-  apiBaseUrl: https://api.github.com
+  #apiBaseUrl: https://api.github.com
   baseUrl: /estado_de_sitiosWeb
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Upptime de SitiosWeb
