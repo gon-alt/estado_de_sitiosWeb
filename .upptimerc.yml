@@ -1,29 +1,29 @@
 # Change these first
-owner: upptime # Your GitHub organization or username, where this repository lives
-repo: upptime # The name of this repository
+owner: Gonza -CMHMR- # Your GitHub organization or username, where this repository lives
+repo: estado_de_sitiosWeb # The name of this repository
 
 sites:
-  - name: Google
-    url: https://www.google.com
-  - name: Wikipedia
-    url: https://en.wikipedia.org
-  - name: Hacker News
-    url: https://news.ycombinator.com
-  - name: Test Broken Site
-    url: https://thissitedoesnotexist.koj.co
+  - name: Geco
+    url: https://gon-alt.github.io/geco/
+  - name: el_cabure
+    url: https://gon-alt.github.io/el_cabure/
+  - name: decoMuebles
+    url: https://gon-alt.github.io/decoMuebles/
+#  - name: Test Broken Site
+#    url: https://thissitedoesnotexist.koj.co
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
-  cname: demo.upptime.js.org
-  # baseUrl: /your-repo-name
+  # cname: demo.upptime.js.org
+  baseUrl: /estado_de_sitiosWeb
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  name: Upptime
-  introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
-  introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
+  name: Upptime de SitiosWeb
+  introTitle: "**Upptime** Bienvenido, esta es una pagina para corroborar el estado de tus sitios web, esperemos que todo vaya bien! :) by GitHub."
+  introMessage: A continuación encontrarás un resumen del estado de sus sitios que se actualiza con una frecuencia de 10 minutos aproximadamente, así que si tu sitio muestra un estado diferente al que aparece en esta página ten paciencia y espera la actualización del estado. 
   navbar:
     - title: Status
-      href: /
+      href: https://gon-alt.github.io/estado_de_sitiosWeb/
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
 
