@@ -20,6 +20,7 @@ status-website:
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   # cname: demo.upptime.js.org
   #apiBaseUrl: https://api.github.com
+  theme: dark
   baseUrl: /estado_de_sitiosWeb
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Upptime de Sitios Web
