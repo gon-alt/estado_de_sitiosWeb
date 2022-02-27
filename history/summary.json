@@ -40,19 +40,19 @@
     "url": "https://gon-alt.github.io/decoMuebles/",
     "icon": "https://favicons.githubusercontent.com/gon-alt.github.io",
     "slug": "deco-muebles",
-    "status": "down",
-    "uptime": "99.94%",
-    "uptimeDay": "98.75%",
-    "uptimeWeek": "99.82%",
-    "uptimeMonth": "99.94%",
-    "uptimeYear": "99.94%",
-    "time": 75,
-    "timeDay": 62,
-    "timeWeek": 90,
-    "timeMonth": 75,
-    "timeYear": 75,
+    "status": "up",
+    "uptime": "96.74%",
+    "uptimeDay": "30.83%",
+    "uptimeWeek": "90.12%",
+    "uptimeMonth": "96.74%",
+    "uptimeYear": "96.74%",
+    "time": 76,
+    "timeDay": 71,
+    "timeWeek": 91,
+    "timeMonth": 76,
+    "timeYear": 76,
     "dailyMinutesDown": {
-      "2022-02-27": 18
+      "2022-02-27": 996
     }
   },
   {
