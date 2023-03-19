@@ -4,7 +4,9 @@ repo: estado_de_sitiosWeb # The name of this repository
 
 sites:
   - name: Geco
-    url: https://gon-alt.github.io/geco/
+    url: https://gon-alt.github.io/Geko/
+  - name: Mi Sitio Web
+    url: https://gon-alt.github.io/MiSitioWeb/
   - name: el_cabure
     url: https://gon-alt.github.io/el_cabure/
   - name: decoMuebles
