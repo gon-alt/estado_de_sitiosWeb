@@ -1,64 +1,39 @@
 [
   {
-    "name": "Geco",
-    "url": "https://gon-alt.github.io/geco/",
+    "name": "Geko",
+    "url": "https://gon-alt.github.io/Geko/",
     "icon": "https://favicons.githubusercontent.com/gon-alt.github.io",
-    "slug": "geco",
+    "slug": "geko",
     "status": "up",
-    "uptime": "99.99%",
+    "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.99%",
-    "time": 109,
-    "timeDay": 167,
-    "timeWeek": 100,
-    "timeMonth": 96,
-    "timeYear": 109,
-    "dailyMinutesDown": {
-      "2022-04-15": 16
-    }
+    "uptimeYear": "100.00%",
+    "time": 112,
+    "timeDay": 112,
+    "timeWeek": 112,
+    "timeMonth": 112,
+    "timeYear": 112,
+    "dailyMinutesDown": {}
   },
   {
-    "name": "el_cabure",
-    "url": "https://gon-alt.github.io/el_cabure/",
+    "name": "Mi Sitio Web",
+    "url": "https://gon-alt.github.io/MiSitioWeb/",
     "icon": "https://favicons.githubusercontent.com/gon-alt.github.io",
-    "slug": "el-cabure",
+    "slug": "mi-sitio-web",
     "status": "up",
-    "uptime": "99.24%",
+    "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.24%",
-    "time": 68,
-    "timeDay": 65,
-    "timeWeek": 52,
-    "timeMonth": 56,
-    "timeYear": 68,
-    "dailyMinutesDown": {
-      "2022-02-28": 955,
-      "2022-02-27": 360
-    }
-  },
-  {
-    "name": "decoMuebles",
-    "url": "https://gon-alt.github.io/decoMuebles/",
-    "icon": "https://favicons.githubusercontent.com/gon-alt.github.io",
-    "slug": "deco-muebles",
-    "status": "up",
-    "uptime": "99.42%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "99.42%",
-    "time": 71,
-    "timeDay": 64,
-    "timeWeek": 50,
-    "timeMonth": 61,
-    "timeYear": 71,
-    "dailyMinutesDown": {
-      "2022-02-27": 996
-    }
+    "uptimeYear": "100.00%",
+    "time": 57,
+    "timeDay": 57,
+    "timeWeek": 57,
+    "timeMonth": 57,
+    "timeYear": 57,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Foster Viajes",
@@ -66,20 +41,19 @@
     "icon": "https://favicons.githubusercontent.com/fosterviajes.tur.ar",
     "slug": "foster-viajes",
     "status": "up",
-    "uptime": "99.94%",
+    "uptime": "99.98%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.95%",
-    "uptimeYear": "99.94%",
-    "time": 2431,
-    "timeDay": 1829,
-    "timeWeek": 1953,
-    "timeMonth": 2465,
-    "timeYear": 2431,
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "99.99%",
+    "time": 2422,
+    "timeDay": 2126,
+    "timeWeek": 2126,
+    "timeMonth": 2126,
+    "timeYear": 2514,
     "dailyMinutesDown": {
       "2022-05-07": 21,
-      "2022-04-27": 41,
-      "2022-02-18": 42
+      "2022-04-27": 41
     }
   }
 ]
