@@ -40,7 +40,7 @@
     "url": "https://fosterviajes.tur.ar/",
     "icon": "https://icons.duckduckgo.com/ip3/fosterviajes.tur.ar.ico",
     "slug": "foster-viajes",
-    "status": "up",
+    "status": "down",
     "uptime": "99.91%",
     "uptimeDay": "98.22%",
     "uptimeWeek": "99.15%",
@@ -52,6 +52,7 @@
     "timeMonth": 2934,
     "timeYear": 2632,
     "dailyMinutesDown": {
+      "2023-05-06": 0,
       "2023-05-05": 26,
       "2023-05-03": 60,
       "2023-04-27": 44,
